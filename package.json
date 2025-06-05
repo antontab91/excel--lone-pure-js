@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "description": "pure Javascript & OOP practice",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build" : "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antontab91/excel--lone-pure-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "OOP"
+  ],
+  "author": "Anton Tabachenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antontab91/excel--lone-pure-js/issues"
+  },
+  "homepage": "https://github.com/antontab91/excel--lone-pure-js#readme",
+  "devDependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
